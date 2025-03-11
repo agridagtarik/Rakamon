@@ -1,0 +1,114 @@
+{
+  "columns": [
+    {
+      "name": "Open",
+      "tasks": [
+        {
+          "title": "Reading",
+          "description": "book,notebook,novel,newspaper",
+          "personel": {
+            "title": "Bahadır Saygılı",
+            "id": 3,
+            "img": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250",
+            "role": "user",
+            "identification": "27154043400",
+            "userName": "bahadirsaygili",
+            "password": "1234"
+          },
+          "status": "Open",
+          "newColIndex": 0
+        },
+        {
+          "title": "Morning Exercise",
+          "description": "Yoga, jogging, stretching, meditation",
+          "personel": {
+            "title": "Ahmet Doğu",
+            "id": 1,
+            "img": "https://images.unsplash.com/photo-1491528323818-fdd1faba62cc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80",
+            "role": "admin",
+            "identification": "27154043400",
+            "userName": "ahmetdogu",
+            "password": "1234"
+          },
+          "status": "Open",
+          "newColIndex": 0
+        }
+      ]
+    },
+    {
+      "name": "In Progress",
+      "tasks": [
+        {
+          "title": "Coding Project",
+          "description": "Developing a React app, fixing bugs, adding features",
+          "personel": {
+            "title": "Latif Tarık",
+            "id": 4,
+            "img": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80",
+            "role": "user",
+            "identification": "27154043400",
+            "userName": "latiftarik",
+            "password": "1234"
+          },
+          "status": "In Progress",
+          "newColIndex": 1
+        }
+      ]
+    },
+    {
+      "name": "In Review",
+      "tasks": []
+    },
+    {
+      "name": "Done",
+      "tasks": []
+    }
+  ],
+  "personel": [
+    {
+      "title": "Ahmet Doğu",
+      "id": 1,
+      "img": "https://images.unsplash.com/photo-1491528323818-fdd1faba62cc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80",
+      "role": "admin",
+      "identification": "27154043400",
+      "userName": "ahmetdogu",
+      "password": "1234"
+    },
+    {
+      "title": "Bahadır Saygılı",
+      "id": 3,
+      "img": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250",
+      "role": "user",
+      "identification": "27154043400",
+      "userName": "bahadirsaygili",
+      "password": "1234"
+    },
+    {
+      "title": "Mehmet Kuzey",
+      "id": 2,
+      "img": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2.25&w=256&h=256&q=80",
+      "role": "admin",
+      "identification": "27154043400",
+      "userName": "mehmetkuzey",
+      "password": "1234"
+    },
+    {
+      "title": "Latif Tarık",
+      "id": 4,
+      "img": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80",
+      "role": "user",
+      "identification": "27154043400",
+      "userName": "latiftarik",
+      "password": "1234"
+    },
+    {
+      "title": "Ayşe Güney",
+      "id": 5,
+      "img": "https://images.unsplash.com/photo-1550525811-e5869dd03032?ixlib=rb-1.2.1&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80",
+      "role": "user",
+      "identification": "27154043400",
+      "userName": "ayseguney",
+      "password": "1234"
+    }
+  ]
+}
